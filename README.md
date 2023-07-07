@@ -2,9 +2,9 @@
 
 Here are some ideas to get you started:
 
-### - 🔭 I have 5 years of experience in Web Development.
+### - 🔭 Have 5 years of experience in Web Development and strong knowledge of programming
 ### - 🌱 pursuing Big Data Analytics at Lambton College 
-### - 🌱 I’m currently learning data science and machine learning
+### - 🌱 currently learning  data analytics and data science
 - 📫 How to reach me: contact@hemantarijal.com
 
 
